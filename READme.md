@@ -1,10 +1,10 @@
-<a href="#"><img width="50%" height="auto" src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/344/external-personal-data-covid19-prevention-photo3ideastudio-gradient-photo3ideastudio.png" height="175px"/></a>
+<a href="#"><img width="20%" height="auto" src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/344/external-personal-data-covid19-prevention-photo3ideastudio-gradient-photo3ideastudio.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandesh</h1>
 <h3 align="center">I'm a Software Engineer.</h3>
 
 ## 🙋‍♂️**** About Me
-
+<br>
 - 📚 I’m currently learning **web developing .**
 - 🏠 I'm from **Matara,Sri Lanka** .
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/WarunaSandesh2001?tab=repositories)**
@@ -12,7 +12,7 @@
 - 📲 Contact me **+94 71 3402092**
 
 ## 🚀** Languages and Tools:
-
+<br>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
