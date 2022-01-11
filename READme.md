@@ -3,16 +3,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandesh</h1>
 <h3 align="center">I'm a Software Engineer.</h3>
 
-## 🙋‍♂️**** About Me
-<br>
+## 🙋‍♂️ About Me
+
 - 📚 I’m currently learning **web developing .**
 - 🏠 I'm from **Matara,Sri Lanka** .
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/WarunaSandesh2001?tab=repositories)**
 - 📧 How to reach me **warunasandesh2001@gmail.com**
 - 📲 Contact me **+94 71 3402092**
 
-## 🚀** Languages and Tools:
-<br>
+## 🚀 Languages and Tools:
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
